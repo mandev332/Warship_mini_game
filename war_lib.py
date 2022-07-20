@@ -1,3 +1,5 @@
+import os as o
+from random import randint as r
 
 arr1 = [
     [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '],
