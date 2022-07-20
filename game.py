@@ -5,8 +5,8 @@ from war_lib import *
 
 
 def start():
-    # player1 = input("pl1: ")
-    player1 = 'Jamshid'
+    player1 = input("pl1: ")
+#     player1 = 'Jamshid'
     player2 = 'KOM'
     shoot = []
 
